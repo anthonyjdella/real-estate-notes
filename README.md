@@ -49,22 +49,22 @@
 * Has 2.5 million in debt, and 65% leverage
 * He and wife bought properties separately with their own names to get more of a loan
 * Had a 70% savings rate for 10 years
-* After building enough equity in 1 property, he would immediatly cash out refinance (switch his currenty mortgage with a new one and taking the home equity out as cash to use for another down payment)them to purchase new properties
-    * If his equity goes over 40%, he will refinance to get it back down to 20%
-* Buys in Atlanta (1), Birmingham (3), Kansas City (28 in Missoui)
-    * One location was in Raytown Kansas City (north of river)
+* After building enough equity in 1 property, he would immediately cash out refinance (switch his currently mortgage with a new one and taking the home equity out as cash to use for another down payment) them to purchase new properties
+    * If his equity goes over 40%, he will refinance to get it back down to 20% and use the other 20% for another down payment
+* Buys in Atlanta (1), Birmingham (3), Kansas City (28 in Missouri)
+    * One location was in Raytown, Kansas City (north of river)
     * Most of his are in Riverside (north of river and downtown)
     * Good link to best areas of Kansas City (https://www.biggerpockets.com/forums/48/topics/276800-kansas-city-missouri-zip-codes?page=1)
-* $50-80k per unit (Usually duplexs and fourplexes)
+* Purchases at $50-80k per unit (Usually duplexes and fourplexes)
     * $100,000 - $160,000 for duplex   <- best for cash flow and returns
     * $200,000 - $320,000 for fourplex
 * Averages $250-300 per unit in cash flow
 * Don't buy under $200 per unit cash flow
 * Build a local team of agents, property managers, and lenders
     * Meet them in person before buying
-    * Always flight out see the property (2-3 day trips)
+    * Always flies out see the property (2-3 day trips)
         * View other properties in that time, meet with team, view property wanting to buy
-* Look for multiple property managers (8% is good. Shouldn't cost more than 10%).
+* Look for multiple property managers (8% cost is good. Shouldn't cost more than 10%).
     * View his checklist here (https://gallery.mailchimp.com/8b7931e477fd5142f0f163ee5/files/5b132b47-1afa-4f9e-a864-e0c65c38b460/Property_Manager_Interview_Questions_Turnkey_Rentals_101.pdf)
     * Talk with them about the target rent. Discuss that your rent estimates are accurate
     * What are their leasing guidelines? Pets or no pets, 6 month, 1 year, 2 year leases. Section 8?
@@ -75,18 +75,18 @@
     * How do they handle late payments and evictions?
     * Any receipts/warranties for any appliances purchased by the current owner that convey with the property
     * Scope of work/dates of any rehab work done by the current/past owners
-    *Property manager does everything including screening tenants (background check, criminal history, income verification, rent collection, etc)
-* If hard to get tentant, move-in incentive may be first month of rent is 1/2 price.
-* Analyzing markets is important for out of state
-    * Look at climate, population, economy, job growth, economic diversity, mediam home price, rent value ratios, landlord laws
-    * Then call borkers,agents,property managers, lenders, investors in that area to learn about that market
+    * Property manager does everything including screening tenants (background check, criminal history, income verification, rent collection, etc)
+* If hard to get tenant, move-in incentive. Maybe first month of rent is 1/2 price.
+* Analyzing markets is especially important for out of state
+    * Look at climate, population, economy, job growth, economic diversity, median home price, rent value ratios, landlord laws
+    * Then call brokers, agents, property managers, lenders, investors in that area to learn about that market
     * http://www.city-data.com/
     * https://www.zillow.com/research/local-market-reports/  
     * https://www.forbes.com/sites/erincarlyle/2016/03/08/americas-fastest-growing-cities-2016/#30f370b11aac
     * http://www.best-cities.org/2016/best-performing-cities-report-2016.pdf
     * https://www.bls.gov/sae/
     * http://capstonecapitalusa.com/the-most-friendly-8-landlord-states/
-* After getting some conventional loans (allowed a maximum of 8-10 conventional loans but sometimes cant get more than 3-5), he got commercial loans from Bank of the West for 2-4 unit properties. This is rare but if you build a relationship they can lend you money on residential properies.
+* After getting some conventional loans (allowed a maximum of 8-10 conventional loans but sometimes cant get more than 3-5), he got commercial loans from Bank of the West for 2-4 unit properties. This is rare but if you build a relationship they can lend you money on residential properties.
     * Bank of the West gave him 25 year amortization, 10 year terms, and good interest rates
 * Does 2-4 units per year
 * Buys value-add properties that need 5,000 - 10,000 of work (this is used out of pocket)
@@ -95,7 +95,7 @@
     * Find agent with investment background, not a regular agent
 * Driving for dollars works
     * Sent 100 letters, got 10 responses
-    * Letter containted personized info (like owners name, house picture, and offer in details)
+    * Letter contained personalized info (like owners name, house picture, and offer in details)
         * Pick a reasonable price, decide how to finance it (Cash is best, but he didnt do this)
         * Skip agents and offer to pay their closing costs
     * Send them a letter every 6 months if no contact
@@ -104,17 +104,17 @@
 * Keeps 5-6 months of expenses for each owned property as a emergency fund per property
 * He raises rents because he thinks its a business
 * Likes B class areas
-* Dont like buildings over 50-60 years old (1950s), prefer newer than that
+* Doesnt like buildings over 50-60 years old (1950s), prefers newer than that
 * Avoid flood zones
 * Review monthly reports that property manager will send you
-* Keep record of all maintancence, even small things because it may lead to more problems (drain clogs up alot, etc)
+* Keep record of all maintenance, even small things because it may lead to more problems (drain clogs up a lot, etc)
 * At the end of the year the property manager should do a walk-through inspection to see if everything looks good
 * Likes 10-12% cap rate. But when estimating extremely conservative (12% vacancy, 15% repairs, etc), 6-7% works too.
 * When analyzing a deal, don't just give estimates.
     * Rent
         * Look at the current lease for the current rate
-        * Use craigslist to find similar properties in the area
-        * Use rentometer
+        * Use Craigslist to find similar properties in the area
+        * Use Rentometer
         * Contact local property managers in the area and ask what the rent should be (send them the address of your property)
     * Vacancy
         * Multifamily will have higher vacancy
@@ -130,8 +130,8 @@
     * Cash Flow (looks for $250/unit)
     * Cash on Cash (looks for 15%)
     * Internal Rate of Return (looks for 20-25%)
-    * Cap Rate Not as Important~~~ (lookst for 10-12%, or worse if strict estimates)
-* Maintanence estimates:
+    * Cap Rate Not as Important~~~ (looks for 10-12%, or worse if strict estimates)
+* Maintenance estimates:
     * A class - $1,200/year
     * B class - $2,400/year (maybe)
 * Cap ex estimates (break them down individually):
@@ -155,23 +155,23 @@
     * Since it was "as-is" he got financing via commercial loans, since residential loans needed inspections and valuation
         * His lenders didnt care about the condition of the property, only the loan to value ratio (LTV and LTV after rehab)
             * The most important thing lenders try to look at is debt coverage ratio, so sell them on this number.
-            * debt coverage ratio (DSCR) is NOI / annual mortgage debt service (principle and interest payments)
-    * visited 2 neighborhoods he was interested in with MFH
-    * got each address in a spreadsheet
-    * looked up each owners tax info,etc 
-    * wrote one page letter with intro, offer terms (include "no agent", "no commissions", "as-is condition"), and contact info
+            * Debt coverage ratio (DSCR) is NOI / annual mortgage debt service (principle and interest payments)
+    * Visited 2 neighborhoods he was interested in with MFH
+    * Got each address in a spreadsheet
+    * Looked up each owners tax info, etc 
+    * Wrote one page letter with intro, offer terms (include "no agent", "no commissions", "as-is condition"), and contact info
         * No agent means no sales commission but only do this is you have a good escrow company and dont mind writing purchase contracts yourself (or hire a lawyer)
-        * told them he was serious and gave an introduction about himself
-    * attached a picture of the property
-    * wrote price of property on fron of letter (big and bold)
-    * one accepted his as-is offer
-    * one negotiated extra $5k
-    * another wouldnt budge until he offered to pay closing costs and property taxes
-    * he offered below market price and well below if it was slightly rehabed and rented at market price
-    * he assures them that he has financing, funds, team lined up and doesnt try to act too sales-ie
-    * if looking at a $200,000 property, he would offer $150,000 - $175,000
-    * if worried about issues with the house (not being able to see inside), keep the contengency there so you can potentially back out during escrow and potentially negotiate a lower price.
-* always fixes things that are broken like hvac, water heater, holes in walls, etc
+        * Told them he was serious and gave an introduction about himself
+    * Attached a picture of the property
+    * Wrote price of property on front of letter (big and bold)
+    * One accepted his as-is offer
+    * One negotiated extra $5k
+    * Another wouldnt budge until he offered to pay closing costs and property taxes
+    * He offered below market price and well below if it was slightly rehabed and rented at market price
+    * He assures them that he has financing, funds, team lined up and doesnt try to act too sales-ie
+    * If looking at a $200,000 property, he would offer $150,000 - $175,000
+    * If worried about issues with the house (not being able to see inside), keep the contingency there so you can potentially back out during escrow and potentially negotiate a lower price.
+* Always fixes things that are broken like HVAC, water heater, holes in walls, etc
     * Doesnt worry about too many cosmetic things that are over the top (nice carpet, stainless steel, etc)
 * Look for a nice property with a specific type. Then find what it rents for. See what his current property looks like compared to that property and determine how much rehab it needs to meet the nice properties standards and rent.
 * 1 KC property:
@@ -180,15 +180,15 @@
     * $1,100 taxes/year
     * $1,000 insurance/year
     * 8% property management
-    * $2,400/year gross maintanence
-    * $600/year capex
+    * $2,400/year gross maintenance
+    * $600/year cap ex
     * $25/month landscaping
-    * $150/month utlities
-    * 821/month total expenses
+    * $150/month utilities
+    * $821/month total expenses
     * NOI $1,940 ($485/unit)
     * $757/month loan payment
     * Cash Flow: $1,182/month ($296/unit)
-* 5% maintancence expectations are low, try to project for around 10%?
+* 5% maintenance expectations are low, try to project for around 10%?
 * 1 Property:
     * Purchased for $190,000 as a 4 plex (added $12,000 in rehab)
     * $3,000 gross rent ($750/unit)
@@ -198,7 +198,7 @@
     * Loan payments: 789/month (30% down, 25 year amortization, 5.15% rate)
     * Cash flow: $1,079 ($270/unit)
 * In Kansas City, he likes Grandview and Lee's Summit (especially down south)
-    * zip code 64110 is ok, but too expensive
-    * never buy in 64128 or 64129/64130
-    * hyde park is ok if its north/west, closer to 71 is sketchy
+    * Zip code 64110 is ok, but too expensive
+    * Never buy in 64128 or 64129/64130
+    * Hyde Park is ok if its north/west, closer to 71 is sketchy
 * Best way to find good property managers is from referrals, make sure investors say they are good to work with. Don't go with smaller companies, go with bigger ones.    
